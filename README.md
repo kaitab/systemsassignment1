@@ -1,7 +1,9 @@
 # systemsassignment1
 this is the first assignment for cosi 217b
 
-notesapp.py contains the underlying code for the notesapp
+notesapp.py contains the underlying code for the notesapp, which can be accessed via either fast api, flask, or streamlit.
+
+requirements are found in requirements.txt
 
 run the fast api with the command:
 
